@@ -9,7 +9,7 @@ export default function HomePage() {
           <p className="font-bold text-4xl">Hi There,</p>
           <p className="font-bold text-2xl">I&apos;m Muhammad Awais.</p>
           <p className="font-bold text-1xl">
-            I'm a Full Stack Web Developer with a strong focus on building
+            I&apos;m a Full Stack Web Developer with a strong focus on building
             <br />
             dynamic, responsive, and user-friendly web applications.
           </p>
