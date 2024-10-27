@@ -7,7 +7,7 @@ export default function HomePage() {
       <div className="flex justify-between items-center w-full max-w-screen-lg">
         <div className="text-left">
           <p className="font-bold text-4xl">Hi There,</p>
-          <p className="font-bold text-2xl">I'm Muhammad Awais.</p>
+          <p className="font-bold text-2xl">I&apos;m Muhammad Awais.</p>
           <p className="font-bold text-1xl">
             I'm a Full Stack Web Developer with a strong focus on building
             <br />

@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function Footer() {
   return (
     <footer className="flex justify-around py-6 px-4 bg-black text-white">
